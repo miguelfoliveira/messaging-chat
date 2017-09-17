@@ -1,1 +1,2 @@
-# messaging-chat
+# secure-instant-messaging
+
